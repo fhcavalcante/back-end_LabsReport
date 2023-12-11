@@ -1,5 +1,3 @@
-# back-end_LabsReport
-API do projeto LabsReport
 API #LabsReport
 
 Ideias, sugestões e identificação de problemas vem e vão em ambientes criativos e são facilmente perdidos. Pensando nisso, esse projeto foi desenvolvido para ser um sistema amigável e de fácil acesso para o resgistro e aproveitamento dessas contribuições. Em uma única página o usuário consegue registrar sua contribuição e ainda verificar se o assunto já foi abordado por outro colaborador.
@@ -28,3 +26,9 @@ Para a correta execução da aplicação siga os passos:
 4 - Para verificar o stataus da API em execução, abra no seu navegador:
     
 http://localhost:5000/#/
+    
+
+
+
+
+
